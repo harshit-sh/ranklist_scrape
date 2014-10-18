@@ -1,0 +1,850 @@
+1 | One_last_time | Indian Institute of Information Technology, Allahabad | 4.00000
+
+2 | SPD | Indian Institute of Technology Delhi | 4.00000
+
+3 | typedef_dtu | Delhi Technological University | 4.00000
+
+4 | Nullstellensatz | Chennai Mathematical Institute | 4.00000
+
+5 | ValarMorghulis | Jaypee University of Engineering and Technology, Guna | 4.00000
+
+6 | 3Spades | Indian Institute of Technology Roorkee | 4.00000
+
+7 | UniRank | Indian Institute of Technology Guwahati | 4.00000
+
+8 | HelloWorld! | Indian Institute of Technology, Varanasi | 4.00000
+
+9 | Rise | Indian Institute of Technology Kanpur | 4.00000
+
+10 | iitbhu_tesserect | Indian Institute of Technology, Varanasi | 3.00000
+
+11 | tle4ever | Indraprastha Institute of Information Technology, Delhi | 3.00000
+
+12 | BUG_ASSASSINS | National Institute of Technology Karnataka | 3.00000
+
+13 | MemoryOverflow | Indian Institute of Technology Kanpur | 3.00000
+
+14 | loopers | Delhi Technological University | 3.00000
+
+15 | NPC | Indian Institute of Technology Kharagpur | 3.00000
+
+16 | #define true false | Indian Institute of Technology Kharagpur | 3.00000
+
+17 | Insert Team Name Here | Indian Institute of Technology Guwahati | 3.00000
+
+18 | Trial&Error | Vellore Institute of Technology, Vellore | 3.00000
+
+19 | Encore | Indian Institute of Technology Bombay | 3.00000
+
+20 | CuberootOfUnity | Indian Institute of Information Technology, Allahabad | 3.00000
+
+21 | Isme_kya_hai | Indian Institute of Information Technology, Allahabad | 3.00000
+
+22 | foobar | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+23 | angle | Indian Institute of Technology Delhi | 3.00000
+
+24 | zootoodoo | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+25 | codeDaemons | National Institute of Technology Tiruchirappalli | 3.00000
+
+51 | Phoenix_2 | Jaypee Institute of Information Technology | 3.00000
+
+52 | hackgp | Indian Institute of Technology Kharagpur | 3.00000
+
+53 | codetohack | Indian Institute of Technology Guwahati | 3.00000
+
+54 | hodor | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+55 | hungry_coders | Delhi Technological University | 3.00000
+
+56 | Codefreaks | Indian Institute of Technology Bombay | 3.00000
+
+57 | codepacers | Indian Institute of Technology Kharagpur | 3.00000
+
+58 | KingSlayer | Delhi Technological University | 3.00000
+
+59 | code_viros | Indian Institute of Technology Kharagpur | 3.00000
+
+60 | sudorandom | Indian Institute of Technology Kharagpur | 3.00000
+
+61 | Plan B | Indian Institute of Technology, Hyderabad | 3.00000
+
+62 | Spook | Govind Ballabh Pant Engineering College, New Delhi | 3.00000
+
+63 | inglorious | Indian Institute of Technology Kanpur | 3.00000
+
+64 | jhunjhune | National Institute of Technology, Rourkela | 3.00000
+
+65 | Mario_Bros | Indian Institute of Technology Kanpur | 3.00000
+
+66 | spacebound | Birla Institute of Technology Mesra | 3.00000
+
+67 | runtime_terror | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+68 | METALLICA | Indian Institute of Information Technology, Allahabad | 3.00000
+
+69 | Macros | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+70 | knightfury | Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar | 3.00000
+
+71 | BAD Coders | Indian Institute of Technology Patna | 3.00000
+
+72 | 15MB | National Institute of Technology Karnataka | 3.00000
+
+73 | tunnamunnachunna | Indian Institute of Technology Guwahati | 3.00000
+
+74 | nsit_nsquare | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+75 | superblock | National Institute of Technology, Durgapur | 3.00000
+
+26 | killer_beans | Indian Institute of Technology Kharagpur | 3.00000
+
+27 | breakThrough | Birla Institute of Technology Mesra | 3.00000
+
+28 | Cychreides | Jaypee Institute of Information Technology | 3.00000
+
+29 | code_BOS | Indian Institute of Technology Kharagpur | 3.00000
+
+30 | Mad-hattans | Indian Institute of Technology Madras | 3.00000
+
+31 | lugician | Indian Institute of Information Technology, Allahabad | 3.00000
+
+32 | Dynamites | Indian Institute of Technology Kharagpur | 3.00000
+
+33 | Foo | Birla Institute of Technology Mesra | 3.00000
+
+34 | R.A.P | Jaypee Institute of Information Technology | 3.00000
+
+35 | Devils1 | Birla Institute of Technology Mesra | 3.00000
+
+36 | redskull | Indian Institute of Technology Kharagpur | 3.00000
+
+37 | TreeVisitors | Indian Institute of Technology Madras | 3.00000
+
+38 | Dice | Indian Institute of Technology Kanpur | 3.00000
+
+39 | triplemode | Indian Institute of Technology Kharagpur | 3.00000
+
+40 | The Hobbits | International Institute of Information Technology, Hyderabad | 3.00000
+
+41 | Brightcoders | Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar | 3.00000
+
+42 | 0b101010 | Indian Institute of Technology Kanpur | 3.00000
+
+43 | Deep Blue | Indian Institute of Technology Indore | 3.00000
+
+44 | Tractor_guys | Indian Institute of Technology Guwahati | 3.00000
+
+45 | some_vague | Indian Institute of Technology Bombay | 3.00000
+
+46 | O(N^N) | Indian Institute of Technology, Varanasi | 3.00000
+
+47 | HBDcoders | National Institute of Technology, Durgapur | 3.00000
+
+48 | RECursion | National Institute of Technology, Durgapur | 3.00000
+
+49 | Saracens | Indian Institute of Technology Kanpur | 3.00000
+
+50 | Carpe_Diem | International Institute of Information Technology, Hyderabad | 3.00000
+
+76 | CodeTReKKers | Indian Institute of Technology Bombay | 3.00000
+
+77 | SMS Delhi | Indian Institute of Technology Delhi | 3.00000
+
+78 | npComplete | Indian Institute of Technology Kharagpur | 3.00000
+
+79 | WWW | Indian Institute of Technology Kharagpur | 3.00000
+
+80 | BOOM! | Indian Institute of Information Technology, Allahabad | 3.00000
+
+81 | 011Coders | Indian Institute of Information Technology, Allahabad | 3.00000
+
+82 | Bermuda Triangle | Indian Institute of Technology Guwahati | 3.00000
+
+83 | 2b|!2b | Indian Institute of Information Technology, Allahabad | 3.00000
+
+84 | rudra | Birla Institute of Technology, Patna | 3.00000
+
+85 | RATS | National Institute of Technology Karnataka | 3.00000
+
+86 | n2_nsit | Netaji Subhas Institute of Technology, New Delhi | 3.00000
+
+87 | Incepticons | Delhi Technological University | 3.00000
+
+88 | KGP123 | Indian Institute of Technology Kharagpur | 3.00000
+
+89 | Noobs1 | National Institute of Technology Karnataka | 2.00000
+
+90 | CodeSlayerX | Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya | 2.00000
+
+91 | 404 team not found | National Institute of Technology, Durgapur | 2.00000
+
+92 | CodeFiends | Indian Institute of Technology Roorkee | 2.00000
+
+93 | InTheLoop | Indian Institute of Technology, Hyderabad | 2.00000
+
+94 | hyperbolicTan | Indian Institute of Technology Delhi | 2.00000
+
+95 | SWAT | Jaypee Institute of Information Technology | 2.00000
+
+96 | CODING_WIZARD | National Institute of Technology, Durgapur | 2.00000
+
+97 | Accepted | International Institute of Information Technology, Hyderabad | 2.00000
+
+98 | FourierAnalysis | Indian Institute of Technology Guwahati | 2.00000
+
+99 | codingbots | Motilal Nehru National Institute of Technology Allahabad | 2.00000
+
+100 | liquid | Birla Institute of Technology Mesra | 2.00000
+
+101 | NowYouSeeUs | National Institute of Technology Tiruchirappalli | 2.00000
+
+102 | Funcoderz | College of Engineering, Guindy | 2.00000
+
+103 | Doctor Who | Indian Institute of Technology Kanpur | 2.00000
+
+104 | The Deterministics | Pune Institute of Computer Technology | 2.00000
+
+105 | InterruptHandler | Indian Institute of Technology Delhi | 2.00000
+
+106 | IngloriousBasterds | Indian Institute of Technology Delhi | 2.00000
+
+107 | hakuna_matata | Indian Institute of Technology Guwahati | 2.00000
+
+108 | aces | Birla Institute of Technology & Science Pilani, Pilani Campus | 2.00000
+
+109 | ByteMe | Birla Institute of Technology & Science Pilani, Pilani Campus | 2.00000
+
+110 | Titans | Indian Institute of Technology Indore | 2.00000
+
+111 | batman | Indraprastha Institute of Information Technology, Delhi | 2.00000
+
+112 | iiestcoders | Bengal Engineering and Science University, Shibpur | 2.00000
+
+113 | Mangalyaan | The LNM Institute of Information Technology | 2.00000
+
+114 | Complexity_Simplified | Amrita School of Engineering, Amritapuri | 2.00000
+
+115 | logismos | International Institute of Information Technology, Hyderabad | 2.00000
+
+116 | kuchbhi | Indian Institute of Technology, Varanasi | 2.00000
+
+117 | dnc | Delhi Technological University | 2.00000
+
+118 | dexters | National Institute of Technology, Durgapur | 2.00000
+
+119 | Random Segment | Indian School of Mines | 2.00000
+
+120 | krmnsk | Institute of Engineering & Management, Kolkata | 2.00000
+
+121 | Diablo | Indian Institute of Technology Bombay | 2.00000
+
+122 | Bits Please | Indian Institute of Technology Roorkee | 2.00000
+
+123 | Codeblasters | Jaypee Institute of Information Technology | 2.00000
+
+124 | Trio | Govind Ballabh Pant Engineering College, New Delhi | 2.00000
+
+125 | EdgeOfTomorrowKGP | Indian Institute of Technology Kharagpur | 2.00000
+
+126 | ICPC Warriors | Netaji Subhas Institute of Technology, New Delhi | 2.00000
+
+127 | astralfun | The LNM Institute of Information Technology | 2.00000
+
+128 | strawhats | National Institute of Technology, Durgapur | 2.00000
+
+129 | limitless | Birla Institute of Technology Mesra | 2.00000
+
+130 | Code racer | M. J. P. Rohilkhand University, Bareilly | 2.00000
+
+131 | noobgrammers | College of Engineering, Guindy | 2.00000
+
+132 | tech_no_logic | International Institute of Information Technology, Hyderabad | 2.00000
+
+133 | Computation | Birla Institute of Technology Mesra | 2.00000
+
+134 | bitmask | National Institute of Technology Tiruchirappalli | 2.00000
+
+135 | Invictus | International Institute of Information Technology, Hyderabad | 2.00000
+
+136 | placeboEffect | International Institute of Information Technology, Hyderabad | 2.00000
+
+137 | connectify_Qwerty | National Institute of Technology, Durgapur | 2.00000
+
+138 | Better_Call_Sol | Birla Institute of Technology Mesra | 2.00000
+
+139 | rejected | Birla Institute of Technology Mesra | 2.00000
+
+140 | 3Rookies | Indian Institute of Information Technology, Design and Manufacturing, Jabalpur | 2.00000
+
+141 | pointers | Indian Institute of Technology Kharagpur | 2.00000
+
+142 | Boolean Trap | Dharmsinh Desai University, Nadiad | 2.00000
+
+143 | kryptos | Indian Institute of Technology Guwahati | 2.00000
+
+144 | Losers | Indian Institute of Technology Ropar | 2.00000
+
+145 | Jallikattu | National Institute of Technology Tiruchirappalli | 2.00000
+
+146 | Algo Beings | Indian Institute of Technology Kanpur | 2.00000
+
+147 | ROYALBENGAL | Bengal Engineering and Science University, Shibpur | 2.00000
+
+148 | std | Delhi Technological University | 2.00000
+
+149 | D_Coders | National Institute of Technology, Durgapur | 2.00000
+
+150 | alchemists | Indian Institute of Technology Ropar | 2.00000
+
+151 | Tesseract | Indian School of Mines | 2.00000
+
+152 | Brute Force | National Institute of Technology, Durgapur | 2.00000
+
+153 | Regression | International Institute of Information Technology, Hyderabad | 2.00000
+
+154 | Illuminati | Indian Institute of Information Technology, Design and Manufacturing, Jabalpur | 2.00000
+
+155 | code warriors | Jaypee Institute of Information Technology | 2.00000
+
+156 | LDSIS | International Institute of Information Technology, Bangalore | 2.00000
+
+157 | random | Indian Institute of Technology Guwahati | 2.00000
+
+158 | SIGSEGV | Netaji Subhas Institute of Technology, New Delhi | 2.00000
+
+159 | Semicolon | Delhi Technological University | 2.00000
+
+160 | 3params | Delhi Technological University | 2.00000
+
+161 | three_sat | Indian Institute of Technology Guwahati | 2.00000
+
+162 | Eklavyaa | Indian Institute of Technology Ropar | 2.00000
+
+163 | ampmcoders | Indian Institute of Technology Roorkee | 2.00000
+
+164 | MaxChaos | Birla Institute of Technology, Patna | 2.00000
+
+165 | 3MB | National Institute of Technology, Jamshedpur | 2.00000
+
+166 | SIMPLE PENDULUM | National Institute of Technology Tiruchirappalli | 2.00000
+
+167 | Recyclebin | Indian School of Mines | 2.00000
+
+168 | Wildcards | Motilal Nehru National Institute of Technology Allahabad | 2.00000
+
+169 | coderage | The LNM Institute of Information Technology | 2.00000
+
+170 | UNSCInfinity | Indian Institute of Technology Kanpur | 2.00000
+
+171 | TLE | Jaypee Institute of Information Technology | 2.00000
+
+172 | Torthare | Birla Institute of Technology & Science Pilani, Pilani Campus | 2.00000
+
+173 | codelovers | Bengal Engineering and Science University, Shibpur | 2.00000
+
+174 | DarkCoders | Maharaja Agrasen Institute of Technology | 2.00000
+
+175 | Code Beginners | Netaji Subhas Institute of Technology, New Delhi | 2.00000
+
+176 | Flopcoderzzz | College of Engineering, Guindy | 2.00000
+
+177 | thetriads | Indian Institute of Technology Bombay | 2.00000
+
+178 | CODERUSH | National Institute of Technology, Durgapur | 2.00000
+
+179 | Missic | Delhi Technological University | 2.00000
+
+180 | Bayesian Conspiracy | Birla Institute of Technology & Science Pilani, Hyderabad Campus | 2.00000
+
+181 | arkhamCoders | Birla Institute of Technology & Science Pilani, Pilani Campus | 2.00000
+
+182 | oblivion | Netaji Subhas Institute of Technology, New Delhi | 2.00000
+
+183 | Dss | College of Engineering and Technology, Bhubaneswar | 2.00000
+
+184 | ARR[KHM] | International Institute of Information Technology, Hyderabad | 2.00000
+
+185 | ShellShock | Jaypee University of Engineering and Technology, Guna | 2.00000
+
+186 | BreakTheCode | Guru Tegh Bahadur Institute of Technology, New Delhi | 2.00000
+
+187 | kalki | International Institute of Information Technology, Hyderabad | 2.00000
+
+188 | Dark_Knights | Birla Institute of Technology Mesra | 2.00000
+
+189 | SomeCoolName | Indian Institute of Technology Guwahati | 2.00000
+
+190 | TRLBLZRS | Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya | 2.00000
+
+191 | AC-Knights | Sardar Vallabhbhai National Institute of Technology, Surat | 2.00000
+
+192 | Bazinga2 | International Institute of Information Technology, Bangalore | 2.00000
+
+193 | HashInclude | National Institute of Technology, Durgapur | 2.00000
+
+194 | nounicodeaccess | National Institute of Technology Karnataka | 2.00000
+
+195 | NITRBlackCoder | National Institute of Technology, Rourkela | 2.00000
+
+196 | CYBERFREAK | Shri Ramswaroop Memorial College of Engineering and Management | 2.00000
+
+197 | invicto | Jaypee Institute of Information Technology | 2.00000
+
+198 | asterix | Delhi Technological University | 2.00000
+
+199 | another | Birla Institute of Technology Mesra | 2.00000
+
+200 | biggest_losers | Indian Institute of Technology Guwahati | 2.00000
+
+201 | RDX | The LNM Institute of Information Technology | 2.00000
+
+202 | syne | Indian Institute of Technology Guwahati | 2.00000
+
+203 | r3boot | Delhi Technological University | 2.00000
+
+204 | alphaque | Indraprastha Institute of Information Technology, Delhi | 2.00000
+
+205 | CodeFreaks | National Institute of Technology, Rourkela | 2.00000
+
+206 | Cipher | Indian Institute of Technology Guwahati | 2.00000
+
+207 | Brotherhood | Madras Institute of Technology, Anna University | 2.00000
+
+208 | codehounds | IEC College of Engineering and Technology, Greater Noida | 2.00000
+
+209 | bhai | Indian Institute of Technology Kanpur | 2.00000
+
+210 | stormworm | Indian Institute of Technology Guwahati | 2.00000
+
+211 | xarete | Malaviya National Institute of Technology, Jaipur | 2.00000
+
+212 | robots1234 | Netaji Subhas Institute of Technology, New Delhi | 2.00000
+
+213 | Bits and Bytes | Indian Institute of Technology Guwahati | 2.00000
+
+214 | Dranzer | International Institute of Information Technology, Hyderabad | 2.00000
+
+215 | BruteXCoders | Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya | 1.00000
+
+216 | Optimus | Institute of Engineering & Management, Kolkata | 1.00000
+
+217 | N Kings | International Institute of Information Technology, Hyderabad | 1.00000
+
+218 | LAN | Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai | 1.00000
+
+219 | navdrishti | Jaypee University of Information Technology | 1.00000
+
+220 | agents_of_code | University Institute of Engineering and Technology, Punjab University | 1.00000
+
+221 | O(logn) | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+222 | #exclude<coders.h> | Indian Institute of Technology Guwahati | 1.00000
+
+223 | power | Bengal Engineering and Science University, Shibpur | 1.00000
+
+223 | naiveAlgorists | National Institute of Science and Technology | 1.00000
+
+225 | uwin | University Visvesvaraya College of Engineering, Bangalore | 1.00000
+
+226 | rrdexter | ABV - Indian Institute of Information Technology and Management Gwalior | 1.00000
+
+227 | bsimpg | Delhi Technological University | 1.00000
+
+227 | Awsome_Coders | Chennai Mathematical Institute | 1.00000
+
+229 | White Walkers2 | International Institute of Information Technology, Hyderabad | 1.00000
+
+230 | Vithakaranunga | College of Engineering, Guindy | 1.00000
+
+231 | bitsPlease | Indraprastha Institute of Information Technology, Delhi | 1.00000
+
+232 | PenduCoders | Indian Institute of Technology Guwahati | 1.00000
+
+233 | Celestial | International Institute of Information Technology, Hyderabad | 1.00000
+
+234 | redHack | Birla Institute of Technology Mesra | 1.00000
+
+235 | Next_Gen_Coders | Institute of Engineering & Management, Kolkata | 1.00000
+
+236 | Codetrotters | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+237 | std_encoded | National Institute of Technology Warangal | 1.00000
+
+238 | Albatross_1 | Birla Institute of Technology, Patna | 1.00000
+
+239 | ctcoders | Rajiv Gandhi College Of Engg And Research, Nagpur | 1.00000
+
+240 | Great Heights | Indian Institute of Technology Kharagpur | 1.00000
+
+241 | vela | Indian Institute of Technology Guwahati | 1.00000
+
+241 | AMIGOS | Rustamji Institute of Technology | 1.00000
+
+243 | prism | Bengal Engineering and Science University, Shibpur | 1.00000
+
+244 | sha-bang | International Institute of Information Technology, Hyderabad | 1.00000
+
+245 | MVP | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+246 | Sub-Zero | Indian Institute of Technology Mandi | 1.00000
+
+247 | SHA3 | Indian Institute of Information Technology, Design and Manufacturing, Jabalpur | 1.00000
+
+248 | return0 | Birla Institute of Technology Mesra | 1.00000
+
+249 | Pseudo Coders | Indraprastha Institute of Information Technology, Delhi | 1.00000
+
+249 | MicroLuNex | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+251 | Venom | Birla Institute of Technology Mesra | 1.00000
+
+252 | ggwp | Vellore Institute of Technology, Vellore | 1.00000
+
+253 | CSECE | Birla Institute of Technology Mesra | 1.00000
+
+254 | Algophillic | Indian Institute of Technology Roorkee | 1.00000
+
+255 | cheezyNibble | Jaypee Institute of Information Technology | 1.00000
+
+256 | Codiacs | The LNM Institute of Information Technology | 1.00000
+
+257 | denied_005 | ABV - Indian Institute of Information Technology and Management Gwalior | 1.00000
+
+258 | Codex | Jaypee Institute of Information Technology | 1.00000
+
+259 | Rush | National Institute of Technology, Durgapur | 1.00000
+
+260 | Dementors | Indian Institute of Technology Kharagpur | 1.00000
+
+261 | GBPS | College of Engineering, Guindy | 1.00000
+
+261 | AllPossible | St. Xavier's College, Kolkata | 1.00000
+
+263 | titan | University Institute of Engineering and Technology, Punjab University | 1.00000
+
+263 | SERENITY | International Institute of Information Technology, Hyderabad | 1.00000
+
+265 | Team Foo | Dharmsinh Desai University, Nadiad | 1.00000
+
+266 | rajdhanicoders | Rajdhani College, University of Delhi | 1.00000
+
+267 | codebugs | Birla Institute of Technology Mesra | 1.00000
+
+268 | daynightcoders | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+269 | CODEHANGOVER | Jaypee Institute of Information Technology | 1.00000
+
+270 | se7en_sins | The LNM Institute of Information Technology | 1.00000
+
+271 | phoenix360 | National Institute of Technology, Durgapur | 1.00000
+
+272 | codeRunners | Indraprastha Institute of Information Technology, Delhi | 1.00000
+
+273 | Invictuss | Indian Institute of Technology Delhi | 1.00000
+
+274 | NULL Pointers | Indian Institute of Technology Guwahati | 1.00000
+
+275 | main()_dtu | Delhi Technological University | 1.00000
+
+276 | Coder | National Institute of Technology, Rourkela | 1.00000
+
+277 | Great_Gatsby | SRM University | 1.00000
+
+278 | HeadStrong | National Institute of Technology, Durgapur | 1.00000
+
+279 | darkCoders | University Institute of Engineering and Technology, Punjab University | 1.00000
+
+280 | C0d3 T!tan$ | International Institute of Information Technology, Hyderabad | 1.00000
+
+281 | DeBuggers | Veermata Jijabai Technological Institute, Mumbai | 1.00000
+
+282 | nitdgp_dx | National Institute of Technology, Durgapur | 1.00000
+
+283 | BIT THRASHERS | Birla Institute Of Technology, Mesra, Deoghar Campus | 1.00000
+
+284 | Gypsy | Birla Institute of Technology Mesra | 1.00000
+
+285 | debuggers | Delhi Technological University | 1.00000
+
+286 | whiledOnes | Indian Institute of Technology Kharagpur | 1.00000
+
+287 | AAAK | National Institute of Technology, Calicut | 1.00000
+
+288 | Void Seekers | Indira Gandhi Institute of Technology | 1.00000
+
+289 | BreakThrough | Kalyani Government Engineering College | 1.00000
+
+290 | The Coders' Protocol | Graphic Era University | 1.00000
+
+291 | TheNoobs | Indian Institute of Technology, Hyderabad | 1.00000
+
+292 | SnailSort | Chennai Mathematical Institute | 1.00000
+
+293 | Ubiquity | Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai | 1.00000
+
+294 | Divergent | Indian Institute of Technology Patna | 1.00000
+
+295 | Shark | Dr. B. R. Ambedkar National Institute of Technology, Jalandhar | 1.00000
+
+296 | De-buggers | Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai | 1.00000
+
+297 | Psychopaths | National Institute of Technology Tiruchirappalli | 1.00000
+
+298 | murugappa | Thapar University | 1.00000
+
+299 | Tyros | Birla Institute of Technology, Patna | 1.00000
+
+300 | ReCurse | National Institute of Technology, Durgapur | 1.00000
+
+301 | Codebuffs | Birla Institute Of Technology, Mesra, Deoghar Campus | 1.00000
+
+302 | mckv coders | MCKV Institute of Engineering, Liluah | 1.00000
+
+303 | Codohack | Jaypee Institute of Information Technology | 1.00000
+
+304 | Imperial Codos | Jaypee Institute of Information Technology | 1.00000
+
+305 | Sprint | Indian Institute of Information Technology, Design and Manufacturing, Jabalpur | 1.00000
+
+306 | #CompressionBomb | National Institute of Technology Tiruchirappalli | 1.00000
+
+307 | BinaryBeast | International Institute of Information Technology, Hyderabad | 1.00000
+
+308 | turtles | Birla Institute of Technology Mesra | 1.00000
+
+309 | bitbyte | Jaypee Institute of Information Technology | 1.00000
+
+310 | Incognito | Jaypee University of Engineering and Technology, Guna | 1.00000
+
+311 | vulpines | Jaypee Institute of Information Technology | 1.00000
+
+312 | Apex Coders | Gitam University | 1.00000
+
+313 | Limitless | Bharati Vidyapeeth College of Engineering, Delhi | 1.00000
+
+314 | IETForce | Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya | 1.00000
+
+315 | protocol | Rajiv Gandhi College Of Engg And Research, Nagpur | 1.00000
+
+316 | return(zilch) | Amrita School of Engineering, Coimbatore | 1.00000
+
+317 | Codor | Jaypee Institute of Information Technology | 1.00000
+
+318 | sredocks | Indian Institute of Technology Guwahati | 1.00000
+
+319 | Z Programmers | University Institute of Engineering and Technology, Punjab University | 1.00000
+
+320 | Team---Name | International Institute of Information Technology, Hyderabad | 1.00000
+
+321 | WhiteWalkers | GD Goenka World Institute | 1.00000
+
+322 | code_gamers | Maulana Azad National Institute of Technology, Bhopal | 1.00000
+
+323 | CodeDwellers | Bharati Vidyapeeth College of Engineering, Delhi | 1.00000
+
+324 | JRE CODERS | JRE Group of Institutions, Greater Noida | 1.00000
+
+325 | k@lprits | The LNM Institute of Information Technology | 1.00000
+
+326 | Udai | Indian Institute of Technology Delhi | 1.00000
+
+327 | Codester | Birla Institute of Technology Mesra | 1.00000
+
+328 | ace_spades | Thapar University | 1.00000
+
+329 | Subway Surfers1 | Indian Institute of Technology Guwahati | 1.00000
+
+330 | Code-locked | Pune Institute of Computer Technology | 1.00000
+
+331 | Seniya | Sardar Vallabhbhai National Institute of Technology, Surat | 1.00000
+
+332 | raptors | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+333 | learners | Jaypee Institute of Information Technology | 1.00000
+
+334 | CODE PANTHERS | Indian School of Mines | 1.00000
+
+335 | Cipher Solvers | Madras Institute of Technology, Anna University | 1.00000
+
+336 | Deception | International Institute of Information Technology, Hyderabad | 1.00000
+
+337 | D3C0D3R5 | Netaji Subhash Engineering College | 1.00000
+
+338 | Coddicted | Indian Institute of Technology, Jodhpur | 1.00000
+
+339 | teen tigada | Indraprastha Institute of Information Technology, Delhi | 1.00000
+
+340 | UltimateCoders | Veermata Jijabai Technological Institute, Mumbai | 1.00000
+
+341 | CodeBros | Indian Institute of Technology Ropar | 1.00000
+
+342 | THINkers | International Institute of Information Technology, Hyderabad | 1.00000
+
+343 | NITR-Sparkles | National Institute of Technology, Rourkela | 1.00000
+
+344 | Supercoders | Indian Institute of Technology Kharagpur | 1.00000
+
+345 | CALICUT TITANS | National Institute of Technology, Calicut | 1.00000
+
+346 | RAM (Random Access Memories) | Narula Institute of Technology | 1.00000
+
+347 | LiveNLetLive | International Institute of Information Technology, Hyderabad | 1.00000
+
+348 | Passsionate Isotopes | Indian Institute of Technology Roorkee | 1.00000
+
+349 | Decodeez | Maharaja Agrasen Institute of Technology | 1.00000
+
+350 | ACMonster | Birla Institute of Technology Mesra | 1.00000
+
+351 | CODE-HUNTERS | National Institute of Technology, Durgapur | 1.00000
+
+352 | manic_coders | Indian Institute of Technology Patna | 1.00000
+
+353 | Segmentation Fault | Punjab Engineering College, Chandigarh | 1.00000
+
+354 | innovex | Anil Neerukonda Institute of Technology and Sciences | 1.00000
+
+355 | CloakedCod3rs | Govind Ballabh Pant Engineering College, New Delhi | 1.00000
+
+356 | T-Asterisk-3 | International Institute of Information Technology, Hyderabad | 1.00000
+
+357 | qwerty | Jaypee Institute of Information Technology | 1.00000
+
+358 | delta | International Institute of Information Technology, Hyderabad | 1.00000
+
+359 | CodeMonkeys | College of Engineering, Guindy | 1.00000
+
+360 | darkknight | Birla Institute of Technology, Patna | 1.00000
+
+361 | coderush | Indian Institute of Technology Guwahati | 1.00000
+
+362 | Bullet For Ur Code | University Institute of Engineering and Technology, Punjab University | 1.00000
+
+363 | McCarthy | JK Institute of Applied Physics and Technology,University of Allahabad | 1.00000
+
+364 | Vanquish | Jaypee Institute of Information Technology | 1.00000
+
+365 | Dkoders | Anil Neerukonda Institute of Technology and Sciences | 1.00000
+
+366 | Extra Byte | College of Engineering, Guindy | 1.00000
+
+367 | Code Blasters | Jaypee Institute of Information Technology | 1.00000
+
+368 | NoobClan | Delhi Technological University | 1.00000
+
+369 | RohMeh | Abes Engineering college, Ghaziabad | 1.00000
+
+370 | Code Geass | Indian Institute of Technology Patna | 1.00000
+
+371 | Xploit | Maharaja Agrasen Institute of Technology | 1.00000
+
+372 | strike_team | National Institute of Technology Raipur | 1.00000
+
+373 | #include<iiit.h> | International Institute of Information Technology, Hyderabad | 1.00000
+
+374 | Eureka | Jaypee University of Engineering and Technology, Guna | 1.00000
+
+375 | CODE CALYPSE | Indian Institute of Technology Patna | 1.00000
+
+376 | catalyst | Rajiv Gandhi College Of Engg And Research, Nagpur | 1.00000
+
+377 | NPAwesome | Indian Institute of Technology Kharagpur | 1.00000
+
+378 | Ritchie | JK Institute of Applied Physics and Technology,University of Allahabad | 1.00000
+
+379 | MIND BOGGLER | National Institute of Technology, Durgapur | 1.00000
+
+380 | Foobar | National Institute of Technology Karnataka | 1.00000
+
+381 | c-maniacs | College of Engineering, Guindy | 1.00000
+
+382 | infiniti | National Institute of Technology, Durgapur | 1.00000
+
+383 | Obelisk_The_Tormentor | Indraprastha Institute of Information Technology, Delhi | 1.00000
+
+384 | Sleepy3 | National Institute of Technology, Jamshedpur | 1.00000
+
+385 | Codeconstructo | Indian Institute of Technology Bhubaneswar | 1.00000
+
+386 | Coders | Chandubhai S Patel Institute of Technology, Gujarat | 1.00000
+
+387 | Blue Sky | National Institute Of Technology, Delhi | 1.00000
+
+388 | Vcode | Madras Institute of Technology, Anna University | 1.00000
+
+389 | codeblue | Institute of Technology & Management Universe, Vadodara | 1.00000
+
+390 | CSEIPS | Indore Professional Studies Academy, Indore | 1.00000
+
+391 | BHU_REX | Indian Institute of Technology, Varanasi | 1.00000
+
+392 | Inception | Indian Institute of Technology Guwahati | 1.00000
+
+393 | Apsepra | National Institute of Technology Tiruchirappalli | 1.00000
+
+394 | coddicted | Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai | 1.00000
+
+395 | humblefool | Netaji Subhas Institute of Technology, New Delhi | 1.00000
+
+396 | DYNABYTZ | Indian Institute of Technology Guwahati | 1.00000
+
+397 | Techno4 | Pranveer Singh Institute of Technology, Kanpur | 1.00000
+
+398 | HOLY KNIGHTS | National Institute of Technology, Durgapur | 1.00000
+
+399 | Resilient | International Institute of Information Technology, Bhubaneswar | 1.00000
+
+400 | Blue Coders | Pranveer Singh Institute of Technology, Kanpur | 1.00000
+
+401 | kiitians | Kalinga Institute of Industrial Technology | 1.00000
+
+402 | Ultimatum | Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai | 1.00000
+
+403 | flare | Rustamji Institute of Technology | 1.00000
+
+404 | SAP | Indira Gandhi Institute of Technology | 1.00000
+
+405 | SAGARB | Abes Engineering college, Ghaziabad | 1.00000
+
+406 | Codex007 | Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai | 1.00000
+
+407 | Divinity | Bapatla Engineering College | 1.00000
+
+408 | Exceptions | National Institute of Technology, Durgapur | 1.00000
+
+409 | four | Indian School of Mines | 1.00000
+
+410 | CODEMANIA | National Institute of Technology, Durgapur | 1.00000
+
+411 | Ncoders | Chandubhai S Patel Institute of Technology, Gujarat | 1.00000
+
+412 | Codoholics | Graphic Era University | 1.00000
+
+413 | Linkers | Veermata Jijabai Technological Institute, Mumbai | 1.00000
+
+414 | IO | National Institute Of Technology, Delhi | 1.00000
+
+415 | yeah_u_wish | Indian Institute of Technology Kharagpur | 0.00000
+
+415 | Conjurors | Sardar Vallabhbhai National Institute of Technology, Surat | 0.00000
+
+415 | Raghucoders | Raghu Engineering College | 0.00000
+
+415 | im(codEx) | International Institute of Information Technology, Hyderabad | 0.00000
+
+415 | innovation | International Institute of Information Technology, Hyderabad | 0.00000
+
+415 | FunCoders | International Institute of Information Technology, Hyderabad | 0.00000
+
+415 | Team_CPU | Gayatri Vidya Parishad College of Engineering For Women, Visakhapatnam | 0.00000
+
+415 | Atoms | Chandubhai S Patel Institute of Technology, Gujarat | 0.00000
+
+415 | codecrackers | Jaypee Institute of Information Technology | 0.00000
+
+415 | outofsyllabus | Madras Institute of Technology, Anna University | 0.00000
+
+415 | catalan-loosers | Indian Institute of Technology Roorkee | 0.00000
+
