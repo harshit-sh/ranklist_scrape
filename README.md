@@ -13,8 +13,8 @@ Post on CodeChef forum: https://discuss.codechef.com/t/final-ranklist-of-acm-kha
 
 ## codechef_scrape_amrita
 
-Script to scrape ranklist of ACM ICPC Amritapuri Online Contest 2014
+Directory which contains the script using Scrapy and team names with their ranks for ACM ICPC Amritapuri Online Contest 2014.
 
 ## codechef_scrape_kgp
 
-Script to scrape ranklist of ACM ICPC Kharagpur Online Contest 2014
+Directory which contains the script using Scrapy and team names with their ranks for ACM ICPC Kharagpur Online Contest 2014.
