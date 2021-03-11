@@ -1,5 +1,4 @@
 # codechef-ranklist-scrape
-==============
 
 Scraping ranklists of ACM ICPC Online contests 2014 conducted by Codechef.
 
