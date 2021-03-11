@@ -11,10 +11,10 @@ I posted the links to the Codechef-Discuss platform and got a total of 376 visit
 Post on CodeChef forum: https://discuss.codechef.com/t/final-ranklist-of-acm-kharagpur-contest/7691
 
 
-## codechef_scrape_amrita
+### codechef_scrape_amrita
 
 Directory which contains the script using Scrapy and team names with their ranks for ACM ICPC Amritapuri Online Contest 2014.
 
-## codechef_scrape_kgp
+### codechef_scrape_kgp
 
 Directory which contains the script using Scrapy and team names with their ranks for ACM ICPC Kharagpur Online Contest 2014.
